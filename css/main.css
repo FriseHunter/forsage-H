@@ -57,6 +57,9 @@ p{
     font-family: 'Comfortaa', sans-serif;
     font-weight: 300;
 }
+.contact_icons{
+    color: #02ddfd!important;
+}
 header{
     height: 100vh;
     background: url('../img/bg_header.jpg') center/cover no-repeat fixed #222;
