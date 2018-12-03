@@ -206,3 +206,6 @@ footer{
 .more_link i{
     font-size: 18px;
 }
+#reviews .carousel-item{
+    height: 40em;
+}
