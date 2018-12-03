@@ -30,4 +30,7 @@
     .about_us{
         text-align: center;
     }
+    .advantages_card {
+        max-width: 100%;
+    }
 }
