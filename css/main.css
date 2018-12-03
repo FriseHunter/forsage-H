@@ -61,7 +61,6 @@ p{
     color: #02ddfd!important;
 }
 header{
-    height: 100vh;
     background: url('../img/bg_header.jpg') center/cover no-repeat fixed #222;
     font-family: 'Comfortaa', sans-serif;
     text-align: center;
