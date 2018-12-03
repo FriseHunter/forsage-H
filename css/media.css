@@ -1,0 +1,33 @@
+@media (max-width: 575.98px) {
+    header, section{
+        padding: 35px 0;
+    }
+    h1{
+        font-size: 28px;
+        padding: 25px 0;
+    }
+    h3{
+        font-size: 18px;
+    }
+    header h2, h2{
+        font-size: 22px;
+    }
+    header p, p{
+        font-size: 14px;
+    }
+    header h2{
+        margin-top: 50px;
+    }
+    #repair p, #repair h3{
+        text-align: center;
+    }
+    #repair h3{
+        padding-top: 15px;
+    }
+    .carousel-inner img{
+        width: 33%!important;
+    }
+    .about_us{
+        text-align: center;
+    }
+}
